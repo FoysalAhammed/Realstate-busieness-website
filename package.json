@@ -16,7 +16,7 @@
     "axios": "^1.3.5",
     "eslint": "8.38.0",
     "eslint-config-next": "13.3.0",
-    "framer-motion": "^10.11.6",
+    "framer-motion": "^10.12.12",
     "millify": "^6.1.0",
     "next": "13.3.0",
     "nprogress": "^0.2.0",
